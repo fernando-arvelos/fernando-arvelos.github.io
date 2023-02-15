@@ -1,0 +1,19 @@
+* {
+    padding: 0px;
+}
+
+body {
+    background-color: #01FDF6;
+}
+
+#Meu-nome {
+    font-family: system-ui, sans-serif;
+}
+
+#Quem-sou-eu {
+    font-family: system-ui, sans-serif;
+}
+
+#Minhas-habilidades {
+    font-size: 25px;
+}
